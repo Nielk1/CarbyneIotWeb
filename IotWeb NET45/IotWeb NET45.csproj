@@ -7,8 +7,8 @@
     <ProjectGuid>{33F56077-18E3-414D-BCC1-496790AAEA93}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IotWeb.Server</RootNamespace>
-    <AssemblyName>IotWeb.Server</AssemblyName>
+    <RootNamespace>IotWeb_CarbyneFork.Server</RootNamespace>
+    <AssemblyName>CarbyneIotWeb.Server</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

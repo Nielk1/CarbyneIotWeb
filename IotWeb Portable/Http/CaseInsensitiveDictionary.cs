@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace IotWeb.Common.Http
+namespace IotWeb_CarbyneFork.Common.Http
 {
     public class CaseInsensitiveDictionary<T> : IDictionary<string, T>
     {

@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-namespace IotWeb.Common.Http
+namespace IotWeb_CarbyneFork.Common.Http
 {
 	public class WebSocket
 	{

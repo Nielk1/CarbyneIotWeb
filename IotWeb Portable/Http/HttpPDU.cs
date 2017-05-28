@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Net;
 
-namespace IotWeb.Common.Http
+namespace IotWeb_CarbyneFork.Common.Http
 {
 	/// <summary>
 	/// Base class for a HTTP protocol data unit (PDU).

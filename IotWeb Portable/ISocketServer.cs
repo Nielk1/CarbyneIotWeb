@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace IotWeb.Common
+namespace IotWeb_CarbyneFork.Common
 {
 	public delegate void ConnectionHandler(ISocketServer sender, string hostname, Stream input, Stream output);
 

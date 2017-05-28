@@ -1,6 +1,6 @@
-﻿using IotWeb.Common.Http;
+﻿using IotWeb_CarbyneFork.Common.Http;
 
-namespace IotWeb.Server
+namespace IotWeb_CarbyneFork.Server
 {
 	public class HttpServer : BaseHttpServer
 	{

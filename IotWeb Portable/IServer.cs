@@ -1,4 +1,4 @@
-﻿namespace IotWeb.Common
+﻿namespace IotWeb_CarbyneFork.Common
 {
 	public delegate void ServerStoppedHandler(IServer server);
 

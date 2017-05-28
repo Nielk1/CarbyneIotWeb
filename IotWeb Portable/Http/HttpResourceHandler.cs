@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Reflection;
 
-namespace IotWeb.Common.Http
+namespace IotWeb_CarbyneFork.Common.Http
 {
     public class HttpResourceHandler : IHttpRequestHandler
     {

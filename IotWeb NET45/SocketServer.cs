@@ -3,9 +3,9 @@ using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Threading;
-using IotWeb.Common;
+using IotWeb_CarbyneFork.Common;
 
-namespace IotWeb.Server
+namespace IotWeb_CarbyneFork.Server
 {
 	public class SocketServer : ISocketServer
 	{

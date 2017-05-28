@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace IotWeb.Common.Http
+namespace IotWeb_CarbyneFork.Common.Http
 {
 	public class HttpException : Exception
 	{

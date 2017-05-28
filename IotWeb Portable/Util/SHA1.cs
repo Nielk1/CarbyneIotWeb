@@ -39,7 +39,7 @@
 // Mono must provide those two class for binary compatibility.
 // In our case both class are wrappers around a managed internal class SHA1Internal.
 
-namespace IotWeb.Common.Util
+namespace IotWeb_CarbyneFork.Common.Util
 {
 	internal class SHA1Internal
 	{

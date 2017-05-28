@@ -2,7 +2,7 @@
 using System.IO;
 using System.Collections.Generic;
 
-namespace IotWeb.Common.Http
+namespace IotWeb_CarbyneFork.Common.Http
 {
 	public class BaseHttpServer : IServer
 	{

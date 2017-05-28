@@ -3,9 +3,9 @@ using System.IO;
 using System.Net;
 using System.Text;
 using System.Text.RegularExpressions;
-using IotWeb.Common.Util;
+using IotWeb_CarbyneFork.Common.Util;
 
-namespace IotWeb.Common.Http
+namespace IotWeb_CarbyneFork.Common.Http
 {
 	class HttpRequestProcessor
 	{

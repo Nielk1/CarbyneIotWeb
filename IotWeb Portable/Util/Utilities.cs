@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace IotWeb.Common.Util
+namespace IotWeb_CarbyneFork.Common.Util
 {
     public static class Utilities
     {

@@ -1,7 +1,7 @@
 ﻿using System.Net;
 using System.Collections.Generic;
 
-namespace IotWeb.Common.Http
+namespace IotWeb_CarbyneFork.Common.Http
 {
 	/// <summary>
 	/// Represents a HTTP request

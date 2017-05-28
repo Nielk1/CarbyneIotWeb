@@ -1,8 +1,8 @@
-# Embedded HTTP and WebSocket Server for UWP/.NET 4.5
+# Embedded HTTP and WebSocket Server for .NET 4.5
 
-### Build status
-
-[![Build status](https://ci.appveyor.com/api/projects/status/gj9dhvwn5oss2qsn/branch/master?svg=true)](https://ci.appveyor.com/project/ummarbhutta/iotweb/branch/master)
+This is a Fork of [IoTWeb] (https://github.com/ummarbhutta/iotweb), and includes following changes
+* Merged Portable and NET45 for ease of use
+* Namespace and library name change to avoid conflicts
 
 This is a Fork of [IoTWeb] (https://github.com/sensaura-public/iotweb), and includes following bug fixes
 * [HttpHandler was not being called for POST methods] (https://github.com/sensaura-public/iotweb/issues/6)

@@ -1,9 +1,9 @@
 ﻿using System.IO;
 using System.Reflection;
 using System.Collections.Generic;
-using IotWeb.Common.Util;
+using IotWeb_CarbyneFork.Common.Util;
 
-namespace IotWeb.Common.Http
+namespace IotWeb_CarbyneFork.Common.Http
 {
     public static class MimeType
     {

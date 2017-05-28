@@ -1,4 +1,4 @@
-﻿namespace IotWeb.Common.Http
+﻿namespace IotWeb_CarbyneFork.Common.Http
 {
     /// <summary>
     /// Represents a filter.
